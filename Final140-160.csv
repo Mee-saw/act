@@ -1,0 +1,23 @@
+,0
+0,"#include <cassert> void testAdd() { assert(add(2, 3) == 5); }"
+1,NULL
+2,function changeBackgroundColor(color) { document.body.style.background = color; }
+3,NULL
+4,def factorial(n) if n == 0 1 else n * factorial(n - 1) end end
+5,static bool IsPrime(int number) { if (number <= 1) return false; for (var i = 2; i < number; i++) if (number % i == 0) return false; return number > 1; }
+6,NULL
+7,function sumArray(array) { var sum = 0; for (var i = 0; i < array.length; i++) { sum += array[i]; } return sum; }
+8,NULL
+9,NULL
+10,NULL
+11,NULL
+12,NULL
+13,NULL
+14,"public static void main(String args[]){
+ // code block
+ }"
+15,NULL
+16,public const int MaxItems = 100;
+17,NULL
+18,"a, b = b, a"
+19,NULL

@@ -1,0 +1,32 @@
+,0
+0,"function factorial(n) {
+if (n === 0) {
+return 1;
+} else {
+return n * factorial(n - 1);
+}
+}"
+1,NULL
+2,"puts 'Hello, World!'"
+3,"fn main() {
+println!('Hello, World!');
+}"
+4,public static int max(int[] array) { int max = array[0]; for (int i = 1; i < array.length; i++) { if (array[i] > max) { max = array[i]; } } return max; }
+5,"Console.WriteLine('Hello, World!');"
+6,NULL
+7,NULL
+8,"```javascript
+test('adds 1 + 2 to equal 3', () => { expect(sum(1, 2)).toBe(3); });
+```"
+9,"public class HelloWorld {public static void main(String[] args) {System.out.println('Hello, World!');}}"
+10,NULL
+11,"for i in range(1, 11): 
+    print(i)"
+12,NULL
+13,Get-ChildItem -Path C:\ -Recurse
+14,"def addTwoNumbers(a, b): return a + b"
+15,if (x > 0) { console.log('Positive') } else { console.log('Negative') }
+16,NULL
+17,NULL
+18,public static int factorial(int n) { if (n == 0) return 1; else return n * factorial(n-1); }
+19,NULL

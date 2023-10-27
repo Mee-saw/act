@@ -1,0 +1,32 @@
+,0
+0,"The JavaScript code in the paragraph is:
+
+```javascript
+document.getElementById('demo').innerHTML = 'Hello JavaScript';
+```
+
+No other code is present in the paragraph."
+1,NULL
+2,"public class Main {public static void main(String[] args) {System.out.println('Hello, World!');}}"
+3,NULL
+4,"int main() {cout << 'Hello, World!'; return 0;}"
+5,"void bubbleSort(int arr[], int n) {for (int i = 0; i < n-1; i++) {for (int j = 0; j < n-i-1; j++) {if (arr[j] > arr[j+1]) {swap(&arr[j], &arr[j+1]);}}}}"
+6,NULL
+7,"function greet(name) {return 'Hello, ' + name;}."
+8,"def sum(a, b): return a + b"
+9,NULL
+10,"int main() {cout << 'Hello, World!'; return 0;}"
+11,NULL
+12,"def factorial(n): 
+    if n == 1: 
+        return 1 
+    else: 
+        return n * factorial(n-1)"
+13,NULL
+14,"def main(): print('Hello, World!') main()"
+15,NULL
+16,git init
+17,NULL
+18,"var http = require('http'); http.createServer(function (req, res) { res.writeHead(200, {'Content-Type': 'text/html'}); res.end('Hello World!'); }).listen(8080);"
+19,"import sys
+print('Hello, World!')"

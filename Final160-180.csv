@@ -1,0 +1,70 @@
+,0
+0,"const numbers = [1, 2, 3, 4, 5]; 
+const evens = numbers.filter(n => n % 2 == 0);"
+1,NULL
+2,"for (int i = 0; i < 10; i++) {
+ // code to be executed
+ }"
+3,NULL
+4,"public class HelloWorld {
+ public static void main(String[] args) {
+ System.out.println(""Hello, World!"");
+}
+}"
+5,NULL
+6,"Here's the code that was found in the paragraph:
+
+```
+import unittest
+class TestStringMethods(unittest.TestCase):
+def test_upper(self):
+self.assertEqual('foo'.upper(), 'FOO')
+```
+
+The code is written in Python and represents a simple unit test."
+7,NULL
+8,NULL
+9,"```
+git clone https://github.com/user/repository.git
+```"
+10,NULL
+11,NULL
+12,"/**
+ * This method adds two integers.
+ * @param num1 The first number.
+ * @param num2 The second number.
+ * @return The sum of num1 and num2.
+ */
+ public int add(int num1, int num2) {
+ return num1 + num2;
+ }"
+13,NULL
+14,"The code in the paragraph is:
+```
+def print_details(self):
+    print(f'Name: {self.name}')
+    print(f'Age: {self.age}')
+```
+
+No other code is present."
+15,NULL
+16,NULL
+17,"function bubbleSort(arr) {
+ for(let i = 0; i < arr.length; i++) {
+ for(let j = 0; j < arr.length - i - 1; j++) {
+ if(arr[j] > arr[j + 1]) {
+ let temp = arr[j];
+ arr[j] = arr[j + 1];
+ arr[j + 1] = temp;
+ }
+ }
+ }
+ return arr;
+ }"
+18,"class Car {
+ public:
+ void start() {
+ cout << ""Car started"";
+ }
+ };"
+19,"def add(a, b): return a + b"

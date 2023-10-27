@@ -1,0 +1,47 @@
+,0
+0,NULL
+1,for i in range(10): print(i)
+2,NULL
+3,"#!/bin/bash 
+ for i in {1..5}; do 
+ echo $i 
+ done"
+4,NULL
+5,NULL
+6,"fun main() { 
+ println(""Hello, World!"") 
+ }"
+7,NULL
+8,NULL
+9,"function add(a, b) { 
+ return a + b; 
+ }"
+10,NULL
+11,"let greeting = ""Hello, World!""
+print(greeting)"
+12,NULL
+13,"void sort(int arr[], int n) { 
+ for (int i = 0; i < n; i++) 
+ for (int j = 0; j < n-i-1; j++) 
+ if (arr[j] > arr[j+1]) 
+ swap(&arr[j], &arr[j+1]); 
+ }"
+14,NULL
+15,"public String reverseString(String s) {
+ char[] charArray = s.toCharArray();
+ int left = 0;
+ int right = s.length() - 1;
+ while (left < right) {
+ char temp = charArray[left];
+ charArray[left] = charArray[right];
+ charArray[right] = temp;
+ left++;
+ right--;
+ }
+ return new String(charArray);
+ }"
+16,"'print(""Hello, World!"")'"
+17,NULL
+18,"'int arr[5] = {1, 2, 3, 4, 5};' 
+'for(int i=0; i<5; i++) {cout << arr[i] << endl;}'"
+19,"class Program { static void Main(string[] args) { Console.WriteLine('Hello, world!'); } }"

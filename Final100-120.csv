@@ -1,0 +1,54 @@
+,0
+0,"int findMax(int arr[], int n) { int max = arr[0]; for (int i = 1; i < n; i++) if (arr[i] > max) max = arr[i]; return max; }"
+1,NULL
+2,NULL
+3,"function findSum(arr) { 
+  let sum = 0; 
+  for (let i = 0; i < arr.length; i++) { 
+    sum += arr[i]; 
+  } 
+  return sum; 
+}"
+4,NULL
+5,stages: - build - test - deploy build: stage: build script: - echo 'Building...' test: stage: test script: - echo 'Testing...' deploy: stage: deploy script: - echo 'Deploying...'
+6,NULL
+7,git merge feature-branch
+8,"public class Singleton { 
+  private static Singleton instance; 
+  private Singleton() {} 
+  public static Singleton Instance { 
+    get { 
+      if (instance == null) { 
+        instance = new Singleton(); 
+      } 
+      return instance; 
+    } 
+  } 
+}"
+9,"print('Hello, World!')"
+10,"#include <iostream>
+int main() {
+std::cout << 'Hello, World!';
+return 0;
+}"
+11,NULL
+12,"function addNumbers(a, b) { return a + b; }"
+13,NULL
+14,"func add(a: Int, b: Int) -> Int {
+return a + b
+}"
+15,NULL
+16,"using System;
+class Program {
+static void Main() {
+Console.WriteLine('Hello, World!');
+}
+}"
+17,"fun add(a: Int, b: Int): Int {
+return a + b
+}"
+18,NULL
+19,"my_list = []
+my_list.append('Hello')
+my_list.append('World')
+print(my_list)"

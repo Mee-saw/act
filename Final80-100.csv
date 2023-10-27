@@ -1,0 +1,22 @@
+,0
+0,NULL
+1,"function add(a, b) { return a + b; }"
+2,"for i in range(1, 11): print(i)"
+3,NULL
+4,"const numbers = [1, 2, 3, 4]; const doubled = numbers.map(n => n * 2);"
+5,NULL
+6,"numbers = [5, 1, 9, 3, 7]; sorted_numbers = sorted(numbers);"
+7,#include <iostream>; int main() { std::cout << 'Hello World'; return 0; }
+8,NULL
+9,int[] numbers = new int[5];
+10,NULL
+11,"class Rectangle { int width, height; public: void set_values (int,int); int area() {return width*height;} };"
+12,function square(number) { return number * number; }
+13,NULL
+14,"def hello_world(): 
+  print('Hello, world!')"
+15,NULL
+16,"public class Main { public static int binarySearch(int[] arr, int target) { int left = 0; int right = arr.length - 1; while (left <= right) { int mid = left + (right - left) / 2; if (arr[mid] == target) { return mid; } if (arr[mid] < target) { left = mid + 1; } else { right = mid - 1; } } return -1; } }"
+17,NULL
+18,git checkout -b new-branch
+19,NULL
